@@ -3,7 +3,6 @@ import pandas as pd
 import fitz
 import easyocr
 import numpy as np
-from google import genai
 import json
 from PIL import Image
 import io
